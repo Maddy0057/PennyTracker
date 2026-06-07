@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Legacy backup rules (Android 11 and below) -->
+<full-backup-content>
+    <!-- Exclude Hive database files stored in app_flutter (getApplicationDocumentsDirectory) -->
+    <exclude domain="file" path="app_flutter" />
+    <!-- Exclude shared preferences -->
+    <exclude domain="sharedpref" path="." />
+    <!-- Exclude SQLite databases (if any) -->
+    <exclude domain="database" path="." />
+</full-backup-content>

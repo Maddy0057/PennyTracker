@@ -19,8 +19,15 @@
 
 <p align="center">
   <a href="https://github.com/Maddy0057/PennyTracker/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest_APK-2ea44f?style=for-the-badge&logo=android" alt="Download APK">
+    <img src="https://img.shields.io/badge/🚀_DOWNLOAD_APP-LATEST_STABLE_APK-success?style=for-the-badge&logo=android&logoColor=white" height="45" alt="Download APK">
   </a>
+</p>
+
+<p align="center">
+  <i>New to GitHub? Click the green button above to download the latest version of PennyTracker.</i>
+</p>
+
+<p align="center">
   <a href="#-getting-started">
     <img src="https://img.shields.io/badge/Guide-Setup-blue?style=for-the-badge&logo=readme" alt="Setup Guide">
   </a>

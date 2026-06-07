@@ -18,6 +18,12 @@
 </p>
 
 <p align="center">
+  <a href="#-getting-started">
+    <img src="https://img.shields.io/badge/Guide-Setup-00BFFF?style=for-the-badge&logo=readme&logoColor=white" alt="Setup Guide">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Maddy0057/PennyTracker/releases/latest">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD_APP-LATEST_STABLE_APK-success?style=for-the-badge&logo=android&logoColor=white" height="45" alt="Download APK">
   </a>
@@ -27,17 +33,14 @@
   <i>New to GitHub? Click the green button above to download the latest version of PennyTracker.</i>
 </p>
 
-<p align="center">
-  <a href="#-getting-started">
-    <img src="https://img.shields.io/badge/Guide-Setup-blue?style=for-the-badge&logo=readme" alt="Setup Guide">
-  </a>
-</p>
-
 ---
 
 ## 📖 Project Overview
 
 PennyTracker is a high-performance personal finance manager designed to solve the "manual entry fatigue" of typical expense trackers. By leveraging advanced **on-device parsing**, it captures transaction data directly from bank SMS and digital payment statements (PhonePe, GPay, Paytm) with zero cloud dependency.
+
+### 📥 Get Started Now
+To start tracking your expenses instantly, you can **[Download the Latest APK here](https://github.com/Maddy0057/PennyTracker/releases/latest)**. For a complete guide on how to set up the application on your device or build it from source, please refer to our **[Installation Guide](#-getting-started)**.
 
 ### Why PennyTracker?
 - **Efficiency:** Most expenses are tracked automatically via background SMS detection.
